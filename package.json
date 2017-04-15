@@ -1,0 +1,17 @@
+{
+  "name": "boteswar",
+  "version": "1.0.0",
+  "description": "A Simple Bot for Discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sayan \"Riju\" Chakrabarti",
+  "license": "GPLv3",
+  "dependencies": {
+    "agenda": "^0.9.1",
+    "discord.io": "^2.5.1",
+    "moment": "^2.18.1"
+  }
+}
