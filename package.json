@@ -10,7 +10,7 @@
   "author": "Sayan \"Riju\" Chakrabarti",
   "license": "GPLv3",
   "dependencies": {
-    "agenda": "^0.9.1",
+    "agenda": "^2.0.0",
     "discord.io": "^2.5.1",
     "moment": "^2.18.1"
   }
